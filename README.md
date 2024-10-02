@@ -1,0 +1,2 @@
+# mywebinfo
+for may website
